@@ -5,7 +5,7 @@ public class Hello{
 
 		for(int index=1; index < 10; index ++){
 
-			System.out.println("Hello from Sajjad" + index);
+			System.out.println("Hello from Sajjad Changes" + index);
 		}
 	}
 }
